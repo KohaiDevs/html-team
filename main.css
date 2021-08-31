@@ -1,5 +1,6 @@
 @import url('./styles/juanca.css');
-  @import url('./styles/Juanda.css');
+@import url('./styles/Juanda.css');
+
 * {
   padding: 0;
   margin: 0;
