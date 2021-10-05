@@ -1,5 +1,9 @@
 .section-juandavid {
+<<<<<<< HEAD
     color: rgb(104, 0, 0);
+=======
+    color:rgb(104, 0, 0);
+>>>>>>> d6d0c435a22b613cd640d35fd7f58ccb7fcde43a
 }
 .caja-completa {
     display: flex;
