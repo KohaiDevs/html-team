@@ -1,3 +1,27 @@
 .section-juandavid {
-    color:rgb(104, 0, 0)
+<<<<<<< HEAD
+    color: rgb(104, 0, 0);
+=======
+    color:rgb(104, 0, 0);
+>>>>>>> d6d0c435a22b613cd640d35fd7f58ccb7fcde43a
 }
+.caja-completa {
+    display: flex;
+    justify-content: center;
+    border: rgb(0, 0, 0) 5px solid;
+    margin: 200px 100px;
+    width: 500px;
+    box-shadow: 5px 5px 10px rgb(122, 122, 122);
+}
+.texto{
+background-color: rgb(233, 233, 233);
+}
+.imagen {
+    width: 150px;
+    height: 150px;
+}
+
+.texto h1 {
+    text-align: center;
+}
+ 
